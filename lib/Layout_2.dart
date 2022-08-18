@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myfirstapp/expandeddemo.dart';
+import 'package:myfirstapp/Layout2_expandeddemo.dart';
 
 
 class LayoutW2 extends StatelessWidget {
